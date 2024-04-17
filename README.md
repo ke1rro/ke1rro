@@ -56,6 +56,10 @@
     <img src="https://www.codewars.com/users/ke1rro/badges/large" alt="codewars">
 </div>
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <h2 align="center">Connect with me</h2> 
 
 <div align="center">
