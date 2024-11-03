@@ -8,7 +8,7 @@
 </div>  
 
 <h2 align="left">👩‍💻  About me</h2> 
-<p align="left">>Student at UCU majoring in Computer Science. Passionate about game development, embedded systems, and robotics.</p>
+<p align="left">Student at UCU majoring in Computer Science. Passionate about game development, embedded systems, and robotics.</p>
 
 <h2 align="center">My skill set</h2>
 
