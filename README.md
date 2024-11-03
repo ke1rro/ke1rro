@@ -8,7 +8,7 @@
 </div>  
 
 <h2 align="left">👩‍💻  About me</h2> 
-<p align="left">I am a beginner Python developer. Currently, I am fully self-taught, with the help of: video courses, books📚, OSSU (Open Source Society University). ⚡️Interested in the development of websites, games.</p>
+<p align="left">>Student at UCU majoring in Computer Science. Passionate about game development, embedded systems, and robotics.</p>
 
 <h2 align="center">My skill set</h2>
 
