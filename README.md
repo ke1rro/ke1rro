@@ -50,7 +50,22 @@
 <h2 align="left">💻 Codewars</h2>
 
 <div align="center">
-    <img src="https://www.codewars.com/users/ke1rro/badges/large" alt="codewars">
+  <a href="https://www.codewars.com/users/ke1rro">
+    <img
+      src="https://github.r2v.ch/codewars?user=ke1rro&name=Ke1rro&theme=gradient_dark"
+      alt="Ke1rro's Codewars Stats"
+    />
+  </a>
+</div>
+
+
+<h2 align="left">💻 Leetcode</h2>
+
+<div align="center">
+  <img 
+       src="https://leetcard.jacoblin.cool/ke1rro?theme=dark&font=Karma&animation=true" 
+       alt="LeetCode Stats" 
+  />
 </div>
 
 <p align="center">
